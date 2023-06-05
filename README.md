@@ -1,5 +1,2 @@
 # this is my zero_day repo
-~~~~
-welcom to my new 
-~~~~
-linux
+# welcome to my new day
